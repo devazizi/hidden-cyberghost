@@ -2,3 +2,5 @@
 
 ## look at this image 
 ![vpn description](https://github.com/devazizi/hidden-cyberghost/blob/master/docs/images/vpn-description.jpg)
+### you can connect with "Hidden cyberghost" securely to user organization with TLS encryption
+
